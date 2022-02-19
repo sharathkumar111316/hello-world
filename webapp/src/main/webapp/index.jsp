@@ -7,7 +7,7 @@ div {text-align: center;}
 </style>
 </head>
 <body>
-<h1>Test</h1>
+<h1> Test </h1>
 <h1 style="color:blue;">Deployment to docker container with ansible playbook executed form jenkins (completely automated)...</h1>
 <h1 style="color:blue;"> Hello, Welcome to Our DevOps Project</h1>
 <h1 style="color:blue;"> Version: 1.27 - Running on Ansible server to create a container on Docker Server - Subscribe my channel and keep learning </h1>
